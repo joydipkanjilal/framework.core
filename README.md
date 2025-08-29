@@ -1,2 +1,2 @@
-# framework.core
+# A Reusable Framework
 A reusable framework for logging, exception handling, scheduling, and many more to come soon
