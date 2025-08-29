@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yIQpo6gIqL0=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Core.Scheduler\\Core.Scheduler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DotNetArchitect\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\DotNetArchitect\\.nuget\\packages\\quartz\\3.15.0\\quartz.3.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
